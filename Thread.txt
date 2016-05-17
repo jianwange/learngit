@@ -1,0 +1,7 @@
+
+Thread thead = new Thread(){
+	public void run() {
+		// 自己业务代码
+	};
+};
+thead.run();
